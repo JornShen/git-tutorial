@@ -47,6 +47,7 @@ public class Test {
 	public static void print(Point<? super Number> po){
 		System.out.println(po.getX());
 		System.out.println(po.getY());
+		System.out.pirntln(po.toString());
 		
 	}
 	
