@@ -31,7 +31,7 @@ class Person{
 
 	public String toString() {
 		
-		return "ĞÕÃû£º¡¡"+this.name +"ÄêÁä£º¡¡"+this.age;
+		return "name:"+this.name +"age:"+this.age;
 	}
 	
 	
